@@ -1,0 +1,12 @@
+{
+  "name": "random-str-msg-badr",
+  "version": "1.0.0",
+  "description": "Random string messages - from npm curse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bernardo Antonio Dávila Rondon <bernardoantoniod@gmail.com>",
+  "license": "MIT"
+}
